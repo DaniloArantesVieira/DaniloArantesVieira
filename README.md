@@ -51,6 +51,5 @@ Projeto cliente-servidor utilizando criptografia, certificados digitais e Docker
 - Desenvolvimento de Software
 
 ## 📫 Contato
-
-- LinkedIn: adicione-seu-link-aqui
+- Email: daniloav025@gmail.com
 - GitHub: @DaniloArantesVieira
