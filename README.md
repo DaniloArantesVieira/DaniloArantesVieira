@@ -1,8 +1,8 @@
 # Olá, eu sou Danilo Arantes 👋
 
-Estudante de Ciência da Computação com foco em **Cybersecurity, Blue Team e Desenvolvimento de Software**.
+Estudante de **Ciência da Computação na PUC Goiás (PUC-GO)** e de **Tecnologia em Cybersecurity na FIAP**, com foco em **Blue Team, Segurança Defensiva e Desenvolvimento de Software**.
 
-Tenho interesse em segurança defensiva, análise de logs, detecção de ameaças, segurança de redes e desenvolvimento de ferramentas voltadas para cybersecurity.
+Atualmente desenvolvo projetos envolvendo análise de Windows Event Logs, detecção de ameaças, MITRE ATT&CK, segurança de redes, criptografia, Docker e automação com Python.
 
 ## 🛡️ Cybersecurity
 
@@ -13,6 +13,7 @@ Tenho interesse em segurança defensiva, análise de logs, detecção de ameaça
 - Network Security
 - VPN / WireGuard
 - TLS e Certificados Digitais
+
 
 ## 💻 Tecnologias
 
