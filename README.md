@@ -41,6 +41,7 @@ Docker e automação com Python.
 - Next.js
 - Linux
 - Windows
+- Pentest
 
 ## 🚀 Projetos em destaque
 
