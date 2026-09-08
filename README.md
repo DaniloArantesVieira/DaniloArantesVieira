@@ -15,9 +15,10 @@
 Estudante de **Ciência da Computação na PUC Goiás (PUC-GO)** e de 
 **Tecnologia em Cybersecurity na FIAP**, com foco em **Blue Team, Segurança Defensiva e Desenvolvimento de Software**.
 
-Atualmente desenvolvo projetos envolvendo análise de **Windows Event Logs**, 
-detecção de ameaças, **MITRE ATT&CK**, segurança de redes, criptografia, 
-Docker e automação com Python.
+Atualmente desenvolvo projetos e laboratórios em diferentes áreas de 
+**Cybersecurity**, explorando segurança defensiva, análise de ameaças, 
+segurança de redes e aplicações, criptografia, hardening, automação, 
+monitoramento e desenvolvimento de ferramentas voltadas à segurança.
 
 ---
 
