@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title description">
+  <title id="title">Danilo Arantes Vieira — terminal profile</title>
+  <desc id="description">Name: Danilo Arantes Vieira; Role: Cybersecurity &amp; Computer Science Student; Focus: Blue Team • Security Engineering • Software Development; Domains: Cyber Defense • AppSec • Networks • Cryptography • Automation; Systems: Linux • Windows • Docker • GitHub Actions; Languages: Python • PowerShell • TypeScript • JavaScript • C</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace; font-size: 13px; }
+    .line { animation: reveal 360ms ease-out both; }
+    @keyframes reveal { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
+    @media (prefers-reduced-motion: reduce) { .line { animation: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="899" height="259" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <path d="M13 1H887Q899 1 899 13V48H1V13Q1 1 13 1" fill="#161B22"/>
+  <path d="M1 48H899" stroke="#30363D"/>
+  <circle cx="24" cy="24" r="4" fill="#F85149"/>
+  <circle cx="40" cy="24" r="4" fill="#8B949E"/>
+  <circle cx="56" cy="24" r="4" fill="#3FB950"/>
+  <text x="80" y="29" fill="#22D3EE">danilo@github:~$ <tspan fill="#C9D1D9">whoami</tspan></text>
+  <rect x="255" y="17" width="7" height="14" rx="1" fill="#8B949E" opacity="0.65"/>
+  <g class="line" style="animation-delay:80ms"><text x="28" y="88" fill="#58A6FF">Name</text><text x="144" y="88" fill="#C9D1D9">Danilo Arantes Vieira</text></g><g class="line" style="animation-delay:190ms"><text x="28" y="115" fill="#58A6FF">Role</text><text x="144" y="115" fill="#C9D1D9">Cybersecurity &amp; Computer Science Student</text></g><g class="line" style="animation-delay:300ms"><text x="28" y="142" fill="#58A6FF">Focus</text><text x="144" y="142" fill="#C9D1D9">Blue Team • Security Engineering • Software Development</text></g><g class="line" style="animation-delay:410ms"><text x="28" y="169" fill="#58A6FF">Domains</text><text x="144" y="169" fill="#C9D1D9">Cyber Defense • AppSec • Networks • Cryptography • Automation</text></g><g class="line" style="animation-delay:520ms"><text x="28" y="196" fill="#58A6FF">Systems</text><text x="144" y="196" fill="#C9D1D9">Linux • Windows • Docker • GitHub Actions</text></g><g class="line" style="animation-delay:630ms"><text x="28" y="223" fill="#58A6FF">Languages</text><text x="144" y="223" fill="#C9D1D9">Python • PowerShell • TypeScript • JavaScript • C</text></g>
+</svg>
