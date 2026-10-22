@@ -111,16 +111,6 @@ Projeto cliente-servidor utilizando criptografia, certificados digitais e Docker
 
 ---
 
-<div align="center">
-
-### `danilo@github ~ $ ./contributions.sh`
-
-<img src="./assets/contrib-heatmap.svg" width="900" alt="Danilo Arantes Vieira GitHub contribution activity">
-
-</div>
-
----
-
 ## 📚 Atualmente estudando
 
 Aprofundando os estudos em **Cybersecurity, Blue Team, segurança de redes,
