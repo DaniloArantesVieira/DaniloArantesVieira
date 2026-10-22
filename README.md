@@ -8,6 +8,14 @@
   <strong>Cybersecurity • Blue Team • Segurança Defensiva • Desenvolvimento de Software</strong>
 </p>
 
+<div align="center">
+
+### `danilo@github ~ $ whoami`
+
+<img src="./assets/profile-card.svg" width="900" alt="Danilo Arantes Vieira terminal profile card">
+
+</div>
+
 ---
 
 ## 👨‍💻 Sobre mim
@@ -103,17 +111,20 @@ Projeto cliente-servidor utilizando criptografia, certificados digitais e Docker
 
 ---
 
-## 📚 Atualmente estudando
-
 <div align="center">
 
-![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-0D1117?style=for-the-badge)
-![Blue Team](https://img.shields.io/badge/BLUE%20TEAM-0A66C2?style=for-the-badge)
-![Network Security](https://img.shields.io/badge/NETWORK%20SECURITY-1F6FEB?style=for-the-badge)
-![Threat Detection](https://img.shields.io/badge/THREAT%20DETECTION-111827?style=for-the-badge)
-![Software Development](https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-444444?style=for-the-badge)
+### `danilo@github ~ $ ./contributions.sh`
+
+<img src="./assets/contrib-heatmap.svg" width="900" alt="Danilo Arantes Vieira GitHub contribution activity">
 
 </div>
+
+---
+
+## 📚 Atualmente estudando
+
+Aprofundando os estudos em **Cybersecurity, Blue Team, segurança de redes,
+detecção de ameaças e desenvolvimento de software**, com aplicação em projetos e laboratórios.
 
 ---
 
